@@ -1,0 +1,3 @@
+[submodule "lab1"]
+	path = lab1
+	url = git@github.com:Menma-orange/lab1.git
